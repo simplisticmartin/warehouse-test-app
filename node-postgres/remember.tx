@@ -1,0 +1,1 @@
+psql -U my_user -d postgres -a -f createData.sql -h 127.0.0.1
